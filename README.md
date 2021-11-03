@@ -1,3 +1,5 @@
+!!! EARLY DEVELOPMENT STAGE !!!
+
 # malli-datomic
 
 Generate Datomic schemas from Malli specs.
